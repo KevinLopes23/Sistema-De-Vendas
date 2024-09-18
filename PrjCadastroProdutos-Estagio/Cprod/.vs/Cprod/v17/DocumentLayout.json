@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PrjCadastroProdutos-Estagio\\Cprod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CD102-1A03-40DA-9385-B7D5803D5C03}|Cprod.csproj|c:\\prjcadastroprodutos-estagio\\cprod\\forms\\frmestorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6CD102-1A03-40DA-9385-B7D5803D5C03}|Cprod.csproj|solutionrelative:forms\\frmestorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CD102-1A03-40DA-9385-B7D5803D5C03}|Cprod.csproj|c:\\prjcadastroprodutos-estagio\\cprod\\forms\\frmestorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF6CD102-1A03-40DA-9385-B7D5803D5C03}|Cprod.csproj|solutionrelative:forms\\frmestorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CD102-1A03-40DA-9385-B7D5803D5C03}|Cprod.csproj|c:\\prjcadastroprodutos-estagio\\cprod\\dal\\cproddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6CD102-1A03-40DA-9385-B7D5803D5C03}|Cprod.csproj|solutionrelative:dal\\cproddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6CD102-1A03-40DA-9385-B7D5803D5C03}|Cprod.csproj|c:\\prjcadastroprodutos-estagio\\cprod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6CD102-1A03-40DA-9385-B7D5803D5C03}|Cprod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEstorno.cs",
+              "DocumentMoniker": "C:\\PrjCadastroProdutos-Estagio\\Cprod\\forms\\FrmEstorno.cs",
+              "RelativeDocumentMoniker": "forms\\FrmEstorno.cs",
+              "ToolTip": "C:\\PrjCadastroProdutos-Estagio\\Cprod\\forms\\FrmEstorno.cs",
+              "RelativeToolTip": "forms\\FrmEstorno.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:31:09.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEstorno.cs [Projeto]",
+              "DocumentMoniker": "C:\\PrjCadastroProdutos-Estagio\\Cprod\\forms\\FrmEstorno.cs",
+              "RelativeDocumentMoniker": "forms\\FrmEstorno.cs",
+              "ToolTip": "C:\\PrjCadastroProdutos-Estagio\\Cprod\\forms\\FrmEstorno.cs [Projeto]",
+              "RelativeToolTip": "forms\\FrmEstorno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:31:00.778Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CProdDal.cs",
+              "DocumentMoniker": "C:\\PrjCadastroProdutos-Estagio\\Cprod\\dal\\CProdDal.cs",
+              "RelativeDocumentMoniker": "dal\\CProdDal.cs",
+              "ToolTip": "C:\\PrjCadastroProdutos-Estagio\\Cprod\\dal\\CProdDal.cs",
+              "RelativeToolTip": "dal\\CProdDal.cs",
+              "ViewState": "AgIAAIkFAAAAAAAAAAAAwJoFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:50:41.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PrjCadastroProdutos-Estagio\\Cprod\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\PrjCadastroProdutos-Estagio\\Cprod\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:47:50.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

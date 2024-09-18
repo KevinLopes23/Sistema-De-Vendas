@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="forms\FrmCadastroMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmCadastroProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmEstorno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmExportarArquivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmImportacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmPesquisaDeMarcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmPesquisaProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
